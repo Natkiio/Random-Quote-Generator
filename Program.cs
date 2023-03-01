@@ -21,6 +21,7 @@ using (WebClient client = new WebClient()) // using webclient to access a csv fi
     
 int randomIndex = random.Next(csvLines.Length); // Generate a random index
 string randomElement = csvLines[randomIndex]; // Access the element at the random index
+Console.WriteLine("Hello");
 
 Console.WriteLine("Your Quote of the day is: " + randomElement); // Print the random element
 }

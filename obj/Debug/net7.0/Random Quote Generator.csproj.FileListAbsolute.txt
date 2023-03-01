@@ -1,0 +1,15 @@
+C:\Users\natha\Documents\Coding\C#\Personal Projects\Random Quote Generator\bin\Debug\net7.0\Random Quote Generator.exe
+C:\Users\natha\Documents\Coding\C#\Personal Projects\Random Quote Generator\bin\Debug\net7.0\Random Quote Generator.deps.json
+C:\Users\natha\Documents\Coding\C#\Personal Projects\Random Quote Generator\bin\Debug\net7.0\Random Quote Generator.runtimeconfig.json
+C:\Users\natha\Documents\Coding\C#\Personal Projects\Random Quote Generator\bin\Debug\net7.0\Random Quote Generator.dll
+C:\Users\natha\Documents\Coding\C#\Personal Projects\Random Quote Generator\bin\Debug\net7.0\Random Quote Generator.pdb
+C:\Users\natha\Documents\Coding\C#\Personal Projects\Random Quote Generator\obj\Debug\net7.0\Random Quote Generator.csproj.AssemblyReference.cache
+C:\Users\natha\Documents\Coding\C#\Personal Projects\Random Quote Generator\obj\Debug\net7.0\Random Quote Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\Coding\C#\Personal Projects\Random Quote Generator\obj\Debug\net7.0\Random Quote Generator.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\Coding\C#\Personal Projects\Random Quote Generator\obj\Debug\net7.0\Random Quote Generator.AssemblyInfo.cs
+C:\Users\natha\Documents\Coding\C#\Personal Projects\Random Quote Generator\obj\Debug\net7.0\Random Quote Generator.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\Coding\C#\Personal Projects\Random Quote Generator\obj\Debug\net7.0\Random Quote Generator.dll
+C:\Users\natha\Documents\Coding\C#\Personal Projects\Random Quote Generator\obj\Debug\net7.0\refint\Random Quote Generator.dll
+C:\Users\natha\Documents\Coding\C#\Personal Projects\Random Quote Generator\obj\Debug\net7.0\Random Quote Generator.pdb
+C:\Users\natha\Documents\Coding\C#\Personal Projects\Random Quote Generator\obj\Debug\net7.0\Random Quote Generator.genruntimeconfig.cache
+C:\Users\natha\Documents\Coding\C#\Personal Projects\Random Quote Generator\obj\Debug\net7.0\ref\Random Quote Generator.dll
